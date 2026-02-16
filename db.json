@@ -1,0 +1,73 @@
+{
+  "store_info": [
+    {
+      "id": "1",
+      "name": "Item Marketplace",
+      "description": "Your ultimate hub for legendary video game loot.",
+      "phone_number": "555-555-5555"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Master Sword",
+      "game": "The Legend of Zelda",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "description": "The blade of evil’s bane, passed down through generations.",
+      "price": 999.99,
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Master_Sword_Lead.png"
+    },
+    {
+      "id": "2",
+      "name": "Buster Sword",
+      "game": "Final Fantasy VII",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "description": "Cloud Strife’s iconic oversized sword.",
+      "price": 799.99,
+      "image": "https://preview.redd.it/anybody-else-use-the-buster-sword-for-the-entire-game-v0-twqhrixu36le1.jpeg?width=640&crop=smart&auto=webp&s=c47de48347aa743ed3d0dadae2fbbfc548ea89b4"
+    },
+    {
+      "id": "3",
+      "name": "Energy Sword",
+      "game": "Halo",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "description": "Plasma blade favored by elite warriors.",
+      "price": 599.99,
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/058d4b4c-eee9-4520-8b8c-818c32e00f0a/d8ymnce-f4d9b533-77b7-4a88-8652-f16abd7e5e6e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wNThkNGI0Yy1lZWU5LTQ1MjAtOGI4Yy04MThjMzJlMDBmMGEvZDh5bW5jZS1mNGQ5YjUzMy03N2I3LTRhODgtODY1Mi1mMTZhYmQ3ZTVlNmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZPMcQ6h3lRaxIFJ8pCU_vsQtCunHuUvWJ1h0M_n-HOQ"
+    },
+    {
+      "id": "4",
+      "name": "Phoenix Down",
+      "game": "Final Fantasy",
+      "type": "Consumable",
+      "rarity": "Uncommon",
+      "description": "Revives a fallen ally with partial HP.",
+      "price": 49.99,
+      "image": "https://pbs.twimg.com/profile_images/378800000162787231/b25be19661259ba4a3f9225414c63164_400x400.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Dragon Armor",
+      "game": "Skyrim",
+      "type": "Armor",
+      "rarity": "Legendary",
+      "description": "Forged from dragon bones and scales.",
+      "price": 1200,
+      "image": "https://images.uesp.net/thumb/2/23/SR-item-Dragonplate_Armor_Male.jpg/200px-SR-item-Dragonplate_Armor_Male.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Golden Mushroom",
+      "game": "Mario Kart",
+      "type": "Consumable",
+      "rarity": "Rare",
+      "description": "Unlimited speed boosts for a short time.",
+      "price": 89.99,
+      "image": "https://mario.wiki.gallery/images/9/91/MKW_Golden_Mushroom_Item_Roulette.png"
+    }
+    
+  ]
+}

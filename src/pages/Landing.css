@@ -1,0 +1,25 @@
+.landing-page {
+  min-height: 80vh;
+  background-color: var(--primary-bg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing-container {
+  max-width: 900px;
+  width: 100%;
+  padding: 0 1rem;
+  text-align: center;
+  color: var(--text-light);
+}
+
+.landing-title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.landing-subtitle {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}

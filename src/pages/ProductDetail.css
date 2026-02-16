@@ -1,0 +1,78 @@
+.product-detail-page {
+  min-height: 80vh;
+  background-color: var(--primary-bg);
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.product-detail-container {
+  max-width: 1000px;
+  width: 100%;
+  background: var(--card-bg);
+  border-radius: 12px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  padding: 2rem;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+  color: var(--text-dark);
+}
+
+.detail-image {
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.detail-info h1 {
+  margin-bottom: 1rem;
+}
+
+.detail-description {
+  margin: 1rem 0;
+}
+
+.detail-price {
+  margin: 1rem 0;
+}
+
+.price-form {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.price-form input {
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.price-form button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: var(--primary-bg);
+  color: var(--text-light);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.price-form button:hover {
+  opacity: 0.9;
+}
+
+.delete-button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #c0392b;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  opacity: 0.9;
+}

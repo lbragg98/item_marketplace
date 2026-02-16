@@ -1,0 +1,13 @@
+.admin-page {
+  min-height: 80vh;
+  background-color: var(--primary-bg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.admin-container {
+  max-width: 600px;
+  width: 100%;
+}
